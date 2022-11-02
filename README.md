@@ -1,10 +1,14 @@
-### Hi there 👋
+- Hi, I'm Amar 👋
+- 👀 I’m interested in Machine Learning and Data Science roles.
+- 🔭 I’m currently working on a web-based microfinance platform and a music generation system.
+- 🌱 I’m currently learning Deep Learning for Industry.
+- 📫 How to reach me: amar3734@gmail.com
+
 
 <!--
 **amarnathwani/amarnathwani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
