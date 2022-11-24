@@ -1,7 +1,7 @@
 - Hi, I'm Amar 👋
-- 👀 I’m interested in Machine Learning and Data Science roles.
-- 🔭 I’m currently working on a web-based microfinance platform and a music generation system.
-- 🌱 I’m currently learning Deep Learning for Industry.
+- 👀 I’m interested in ML/Data and Creative Development.
+- 🔭 I’m currently working on a platform for the services economy in East Africa.
+- 🌱 I’m currently learning Blender and Three.js.
 - 📫 How to reach me: amar3734@gmail.com
 
 
