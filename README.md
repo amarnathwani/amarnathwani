@@ -1,7 +1,6 @@
 - Hi, I'm Amar 👋
-- 👀 I’m interested in ML and Creative Development.
-- 🔭 I’m currently working on a platform for the services economy in East Africa.
-- 🌱 I’m currently learning Three.js and ML Ops.
+- 👀 I’m interested in MLOps, LLMs and Creative Web Development.
+- 🌱 I’m currently learning about and working on ML for production. 
 - 📫 How to reach me: amar3734@gmail.com
 
 
