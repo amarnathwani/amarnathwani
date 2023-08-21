@@ -1,6 +1,6 @@
 - Hi, I'm Amar 👋
 - 👀 I’m interested in MLOps, LLMs and Creative Web Development.
-- 🌱 I’m currently learning about and working on ML for production. 
+- 🌱 I’m currently learning about AI for Medicine. 
 - 📫 How to reach me: amar3734@gmail.com
 
 
