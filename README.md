@@ -1,3 +1,6 @@
 👋🏼 <br>
-i like go and react/next <br>
-i also like webflow + gsap + r3f <br>
+fullstack <br>
+- go
+- js/react/next
+- python data/ml
+- also fun: webflow + gsap + r3f
