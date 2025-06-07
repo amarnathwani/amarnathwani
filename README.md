@@ -1,5 +1,5 @@
 👋🏼 <br>
-fullstack <br>
+full stack
 - go
 - js/react/next
 - python data/ml
